@@ -68,7 +68,7 @@ img{
 
 }
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 460px){
   img{
     width: 95%;
   }
