@@ -45,13 +45,13 @@ h1{
 
 .img-section{
   overflow: hidden;
+  display: block;
 }
 
 img{
   width: 30%;
   height: auto;
   margin: 1.5%;
-  display: block;
 }
 
 .review{
