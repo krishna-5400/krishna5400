@@ -48,10 +48,10 @@ h1{
 }
 
 img{
-  max-width: 25%;
-  margin: 1.5%;
+  width: 30%;
   height: auto;
-  display: inline-block;
+  margin: 1.5%;
+  display: inline;
 }
 
 .review{
@@ -67,10 +67,10 @@ img{
 
 .quote-by{
   margin-top: 0;
-
+  font-size: 0.75rem;
 }
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 460px){
   img{
     max-width: 95%;
   }
