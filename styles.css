@@ -68,9 +68,9 @@ img{
   font-size: 0.75rem;
 }
 
-@media only screen and (max-width: 460px){
+@media screen and (max-width: 460px){
   img{
-    max-width: 95%;
+    width: 95%;
     margin: 0;
   }
   h1{
